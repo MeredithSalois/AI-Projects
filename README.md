@@ -1,4 +1,4 @@
-# 🤖 Ethical Implications of AI in Food Technology: An Analysis of Let’s Foodie
+# 🫛 Ethical Implications of AI in Food Technology: An Analysis of Let’s Foodie
 
 <h2>Description:</h2>
 This project examines the ethical concerns of AI-driven culinary recommendation systems, focusing on *Let’s Foodie*. The analysis highlights key ethical challenges such as bias, fairness, transparency, and cultural sensitivity in AI-generated food recommendations. Using data audits, algorithmic fairness testing, and cultural assessments, this project identifies risks and proposes improvements to make AI-powered food technology more inclusive and responsible.
